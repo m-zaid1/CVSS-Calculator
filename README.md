@@ -22,7 +22,7 @@ cvsscalc.vercel.app
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript (or your framework/library if any)  
+- HTML, CSS, JavaScript, TypeScript
 
 ---
 
